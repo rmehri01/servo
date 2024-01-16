@@ -664,7 +664,7 @@ dependencies = [
  "style",
  "style_traits",
  "surfman",
- "time 0.1.45",
+ "time 0.3.23",
  "webrender",
  "webrender_api",
  "webrender_surfman",
@@ -690,7 +690,7 @@ dependencies = [
  "servo_config",
  "sparkle",
  "style",
- "time 0.1.45",
+ "time 0.3.23",
  "webrender_api",
  "webxr-api",
 ]
@@ -919,7 +919,7 @@ dependencies = [
  "servo_geometry",
  "servo_url",
  "style_traits",
- "time 0.1.45",
+ "time 0.3.23",
  "toml",
  "webrender",
  "webrender_api",
@@ -1340,7 +1340,7 @@ dependencies = [
  "servo_config",
  "servo_rand",
  "servo_url",
- "time 0.1.45",
+ "time 0.3.23",
  "uuid",
 ]
 
@@ -1357,7 +1357,7 @@ dependencies = [
  "msg",
  "serde",
  "servo_url",
- "time 0.1.45",
+ "time 0.3.23",
  "uuid",
 ]
 
@@ -2037,7 +2037,7 @@ dependencies = [
  "servo_url",
  "smallvec",
  "style",
- "time 0.1.45",
+ "time 0.3.23",
  "truetype",
  "ucd",
  "unicode-bidi",
@@ -3090,7 +3090,7 @@ dependencies = [
  "servo_url",
  "style",
  "style_traits",
- "time 0.1.45",
+ "time 0.3.23",
  "webrender_api",
 ]
 
@@ -3397,7 +3397,7 @@ dependencies = [
  "smallvec",
  "string_cache",
  "thin-vec",
- "time 0.1.45",
+ "time 0.3.23",
  "tokio",
  "url",
  "uuid",
@@ -3528,7 +3528,7 @@ dependencies = [
  "script_traits",
  "servo_config",
  "servo_url",
- "time 0.1.45",
+ "time 0.3.23",
 ]
 
 [[package]]
@@ -3541,7 +3541,7 @@ dependencies = [
  "msg",
  "profile_traits",
  "servo_url",
- "time 0.1.45",
+ "time 0.3.23",
 ]
 
 [[package]]
@@ -3763,7 +3763,7 @@ dependencies = [
  "servo_config",
  "servo_url",
  "sha2",
- "time 0.1.45",
+ "time 0.3.23",
  "tokio",
  "tokio-rustls",
  "tokio-stream",
@@ -3802,7 +3802,7 @@ dependencies = [
  "servo_arc",
  "servo_rand",
  "servo_url",
- "time 0.1.45",
+ "time 0.3.23",
  "url",
  "uuid",
  "webrender_api",
@@ -4402,7 +4402,7 @@ dependencies = [
  "serde",
  "servo_config",
  "signpost",
- "time 0.1.45",
+ "time 0.3.23",
 ]
 
 [[package]]
@@ -4825,7 +4825,7 @@ dependencies = [
  "swapper",
  "tempfile",
  "tendril",
- "time 0.1.45",
+ "time 0.3.23",
  "unicode-bidi",
  "unicode-segmentation",
  "url",
@@ -4923,7 +4923,7 @@ dependencies = [
  "servo_url",
  "smallvec",
  "style_traits",
- "time 0.1.45",
+ "time 0.3.23",
  "uuid",
  "webdriver",
  "webgpu",
